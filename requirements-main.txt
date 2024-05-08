@@ -1,0 +1,7 @@
+pandas
+clean-text
+nltk
+scikit-learn
+tensorflow
+gensim
+optuna
