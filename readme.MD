@@ -19,4 +19,4 @@
 
 <br>
 <br>
-The notebook could take a long time to run, for that reason please see an already completed run [here]()
+The notebook could take a long time to run, for that reason please see an already completed run [here](https://github.com/BigJonP/fake-job.posting-classification/blob/master/main.ipynb).
